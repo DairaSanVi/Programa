@@ -1,5 +1,4 @@
-
-package Pila;
+package cola;
 
 public class Nodo {
 
@@ -32,3 +31,4 @@ public class Nodo {
         return elemento + "\n";
     }
 }
+
